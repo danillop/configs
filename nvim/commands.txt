@@ -1,0 +1,6 @@
+NVIM
+----
+
+<space> pf = fuzzy finder
+<space> pv = explorer
+<space> ps = fuzzy finder serch word
