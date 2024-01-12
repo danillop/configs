@@ -4,3 +4,16 @@ NVIM
 <space> pf = fuzzy finder
 <space> pv = explorer
 <space> ps = fuzzy finder serch word
+
+$ move to the line end
+0 move to the line begging
+
+
+f(foward) + charcter = move cursor forward on character 
+F(backward) + character = move cursor backword on character
+
+t(foward) + charcter = move cursor forward to character but not on
+T(backward) + character = move cursor backward to character but not ON
+, = goes backward
+; = goes forward
+
